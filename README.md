@@ -14,7 +14,7 @@ Toronto neighborhood location data is retrieved using Geopy library and stored i
 
 [https://github.com/rickysoo/toronto/blob/master/toronto2.csv](https://github.com/rickysoo/toronto/blob/master/toronto2.csv)
 
-## Part 1 - Clustering Neighborhoods
+## Part 3 - Clustering Neighborhoods
 
 Places in Toronto neighborhoods are explored using Foursquare API. Data is wrangled and neighborhoods are grouped into clusters using k-means clustering algorithm. Analysis and interpretation are made into each cluster.
 
