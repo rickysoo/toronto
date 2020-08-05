@@ -26,6 +26,6 @@ Places in Toronto neighborhoods are explored using Foursquare API. Data is wrang
 
 103 neighborhoods in Toronto have been grouped into 3 clusters as below:
 
-Cluster 0 (14 neighborhoods) - Mostly "Leisure" venues
-Cluster 1 (87 neighborhoods) - Mostly "Food & beverages" venues
-Cluster 2 (2 neighborhoods) - Mostly "Lifestyle" venues
+- Cluster 0 (14 neighborhoods) - Mostly "Leisure" venues
+- Cluster 1 (87 neighborhoods) - Mostly "Food & beverages" venues
+- Cluster 2 (2 neighborhoods) - Mostly "Lifestyle" venues
